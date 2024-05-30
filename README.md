@@ -2,6 +2,12 @@
 
 ## Install
 
+### inputrc
+
+```
+cp inputrc ~/.inputrc
+```
+
 ### NvChad 2.5
 
 ```
