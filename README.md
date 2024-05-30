@@ -8,6 +8,12 @@
 cp inputrc ~/.inputrc
 ```
 
+### tmux
+
+```
+cp tmux.conf ~/.tmux.conf
+```
+
 ### NvChad 2.5
 
 ```
